@@ -102,5 +102,6 @@ Execute the program
         <td align="center">soft skills(SS)</td>
     </tr>
 # OUPUT
-![Screenshot 2023-12-11 220608](https://github.com/dhandeeswaran2005/timetable/assets/147139188/d63da537-c675-4d35-af80-060dbc494d0b)
+![timetable png](https://github.com/dhandeeswaran2005/timetable/assets/147139188/43836de8-1b84-4508-9331-6fcf75439369)
+
 
